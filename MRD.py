@@ -3057,7 +3057,7 @@ def usage():
 	print '---------------------------------------------------'
 	print 'AKU BERDIRI SENDIRI !'
 	print 'HILANG PERCAYA DIRI !'
-	print 'SUNDA CYBER ARMY _/\_'
+	print 'SUNDA CYBER ARMY 2k17 _/\_'
 	print 'To use windows : mister duce.py <url> '
 	print 'To use Linux   : python mister duce.py <url> '
 	print "\a"
@@ -3150,7 +3150,7 @@ else:
 		usage()
 		sys.exit()
 	else:
-		print "PYTHON MR-D POWERFULL ATTACK DDOS"
+		print "PYTHON MR-D FULLPOWER ATTACK DDOS"
 		if len(sys.argv)== 3:
 			if sys.argv[2]=="safe":
 				set_safe()
