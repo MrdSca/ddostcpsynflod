@@ -3059,7 +3059,7 @@ def usage():
 	print 'duche python : DDoS Attack'
 	print "\a"
 print \
-"""                                                            MisterD Tamvan :v....
+"""                                                          MisterD Tamvan :v....
                |       /$$$$$$                      /$$     By Sunda Cyber Army               
     |  $$$$$$$$  $$$$          $$$$ |$$ $ $ $$ $ $ $ $ $ $  
 	| $    $    $$|      |$$    | $      $   $ |     $  [+]DRAGON[+]
