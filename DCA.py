@@ -61,8 +61,8 @@ def buildblock(size):
 
 def usage():
 	print '---------------------------------------------------'
-	print 'USAGE: python ddoserteam.py url : http://www.israelfuck.com/'
-	print 'The DdoserTeam Created by       : MISTER_D'
+	print 'USAGE: python DCA.py url : http://www.israelfuck.com/'
+	print 'SundaCyberArmy Created by       : MISTER_D'
 	print "\a"
 print \
 """            _________
@@ -105,7 +105,7 @@ def httpcall(url):
 	except urllib2.HTTPError, e:
 			#print e.code
 			set_flag(1)
- 			print 'MISTER_D AND SCA HAHAHA SISTEM KEAMANAN DATABASE ANDA SANGAT LEMAH SEKALI BUNG :v :p'
+ 			print 'MISTER_D AND SCA ATTACKERS YOUR SAFETY SYSTEM IS VERY WEAK :v '
 			code=500
 	except urllib2.URLError, e:
 			#print e.reason
@@ -147,7 +147,7 @@ else:
 		usage()
 		sys.exit()
 	else:
-		print "Sunda Cyber Army was been sended This tool is created by : MISTER_D"
+		print "Sunda Cyber Army Was Here created by : MISTER_D"
 		if len(sys.argv)== 3:
 			if sys.argv[2]=="safe":
 				set_safe()
