@@ -61,8 +61,8 @@ def buildblock(size):
 
 def usage():
 	print '---------------------------------------------------'
-	print 'USAGE: python DCA.py url : http://www.israelfuck.com/'
-	print 'SundaCyberArmy Created by       : MISTER_D'
+	print 'USAGE: python dos.py url : http://www.israelfuck.com/'
+	print 'SundaCyberArmy Created by : MISTER_D'
 	print "\a"
 print \
 """            _________
