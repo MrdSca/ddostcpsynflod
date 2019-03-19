@@ -1,3 +1,8 @@
+# Sunda Cyber Army 
+# Protokol DDoS adalah tipe serangan paling masif
+# Youtube Link : https://www.youtube.com/watch?v=Sn3sc3J6pAI
+# Author : Mister_D
+# ------------------------------------------------------------------------------------------
 import urllib2
 import sys
 import threading
@@ -3055,14 +3060,14 @@ def buildblock(size):
 
 def usage():
 	print '---------------------------------------------------'
-	print 'USAGE : python mister_D.py <url>'
-	print 'duche python : DDoS Attack'
+	print 'USAGE : python mister_d1.py <url>'
+	print 'mister_d python : DDOS Attack'
 	print "\a"
 print \
-"""                                                          MisterD Tamvan :v....
-               |       /$$$$$$                      /$$     By Sunda Cyber Army               
+"""                                                          Mister_D Tamvan :v....
+               |       /$$$$$$                      /$$      Sunda Cyber Army All Member !!           
     |  $$$$$$$$  $$$$          $$$$ |$$ $ $ $$ $ $ $ $ $ $  
-	| $    $    $$|      |$$    | $      $   $ |     $  [+]DRAGON[+]
+	| $    $    $$|      |$$    | $      $   $ |     $  [+]SUNDA[+]
 	| $     $   $ |      | $    | $       $  $ |     $  [+]CYBER[+]
 	| $      $  $ |      | $    | $          $ |---  $  [+]ARMY[+]
 	| $      $  $ |      | $    | $          $$$$$$|
