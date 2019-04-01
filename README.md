@@ -1,4 +1,5 @@
 # SCRIPT PYTHON TCP SYN FLOOD SCA ~
+# TESTED ALL OS
 
 USAGE : 
 ~ Termux,Windows,Linux
